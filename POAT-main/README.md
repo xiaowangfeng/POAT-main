@@ -1,7 +1,7 @@
-# Periodic Set Transformer
+# Open-source code for "High-Efficiency Prediction of Material Properties"
 
-This is a repository for the implementation of the Periodic Set Transformer. The starter code was taken from CGCNN:
-https://github.com/txie-93/cgcnn. The general usage is largely the same as their model.
+This is a repository for the implementation of the POAT. The starter code was taken from Periodic Set Transformer:
+https://github.com/jonathanBalasingham/Periodic-Set-Transformer. The general usage is largely the same as their model.
 
 ## File Descriptions
 - `main.py`: Main file for command line utility
